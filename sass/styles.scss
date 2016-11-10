@@ -1,0 +1,29 @@
+.col-sm-4 {
+	background-color: white;
+	border: 1px solid black;
+	text-align: center;
+	margin-top: 15px;
+	margin-left: 1px;
+	height: 400px;
+	width: 32%;
+}
+
+.photo {
+	padding-top: 10px;
+	height: 150px;
+	width: 220px;
+}
+
+.selected {
+	border: 3px dotted black;
+	background-color: #ccc;
+}
+
+body {
+	background: url(https://c1.staticflickr.com/1/16/21573076_30e7785f4a_b.jpg);
+	background-size:cover;
+}
+
+.navbar {
+	opacity: 0.9;
+}

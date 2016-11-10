@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2008-Nissan-Rogue.jpg/220px-2008-Nissan-Rogue.jpg",
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+     {
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2011_Volkswagen_Jetta_(1KM_MY10)_118TSI_sedan_(2015-07-03)_01.jpg/280px-2011_Volkswagen_Jetta_(1KM_MY10)_118TSI_sedan_(2015-07-03)_01.jpg",
+      "make": "voltsWagon",
+      "model": "jetta",
+      "year": "2009",
+      "price": "8999",
+      "description": "This is an immaculate 2009 voltsWagon jetta with only 25000 miles on it. Leather seats, power everything."
+    },
+     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/1995-1999_BMW_M3_(E36)_coupe_01.jpg/280px-1995-1999_BMW_M3_(E36)_coupe_01.jpg",
+      "make": "BMW",
+      "model": "M3",
+      "year": "1999",
+      "price": "8999",
+      "description": "This is an immaculate 1999 BMW M3 with only 25000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
